@@ -2,6 +2,22 @@
 
 PETSA (Product Efficiency Through Sentiment Analyser) is a tool that allows any company to get realtime update and efficiency of there productsin the market. It also tell about the coverage of the products in market caps.
 
+## Executive Summary
+
+* <b>Overview</b>
+P.E.T.S.A. is an acronym which stands for Product Efficiency Through Sentiment Analyser, This Project is focused on determining and enhancing the efficiency of a product, as to how the product is performing in the market like - what community thinks about the project, what things can be improved and so on. Giving the end-user an overall view of the product.
+
+* <b>Potential</b>
+The P.E.T.S.A. is not only limited to the consumer but also has great business value for the manufactures as well, as it gives them the idea of how their product is performing in the market.
+For manufacturers, a security feature can also be added which makes their whole product-based analysis more secure, instead of giving that insight available to the general public.
+For a better user experience, it can have specific platform based views and opinions or it can have a generalized overall view of all the platform’s views and opinions.
+
+## Core Value
+
+>* <b>Integrity</b>​ :- Since P.E.T.S.A. is using real-time data sets from reliable platforms like Twitter, Amazon, and Flipkart, and providing authentic results, Hence there is no scope for deception.
+>* <b>Accountability</b> :- ​ We take ownership of our work and promptly correct mistakes to the greatest extent possible​.
+>* <b>Unbiased</b> :- ​ P.E.T.S.A. considers and appreciates all sorts of opinions without any sort of biased towards particular opinions.
+
 ## Leverage Machine Learning for PETSA
 
 * <b>Question Analysis</b>
